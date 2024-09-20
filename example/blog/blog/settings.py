@@ -214,6 +214,7 @@ CKEDITOR_5_CONFIGS = {
                 "showBlocks",
                 "selectAll",
                 "findAndReplace",
+                "pageBreak",
             ],
             "shouldNotGroupWhenFull": True,
         },
